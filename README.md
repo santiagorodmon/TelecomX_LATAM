@@ -1,2 +1,2 @@
 # TelecomX_LATAM
-challenge de 
+Análisis exploratorio de datos para identificar causas de evasión de clientes en Telecom X.
